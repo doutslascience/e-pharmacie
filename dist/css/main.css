@@ -1,0 +1,12 @@
+.bleu
+{
+	background: blue ;
+}
+.rouge
+{
+	background-color: red;
+}
+.blue,.red
+{
+	height: 300px ;
+}
